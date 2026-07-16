@@ -42,10 +42,3 @@ Aqui estão as linguagens e tecnologias com as quais já tenho familiaridade ou 
 </p>
 
 ---
-
-### 📊 Minhas Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glhrm86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de glhrm86">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glhrm86&layout=compact&theme=tokyonight" alt="Linguagens mais usadas por glhrm86">
-</p>
