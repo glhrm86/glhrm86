@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme Azevedo Couto! 👋 (`glhrm86`)
+# Olá, eu sou o Guilherme! :vulcan_salute: (`glhrm86`)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Estudante%20de%20TI-10b981?style=for-the-badge" alt="Status">
