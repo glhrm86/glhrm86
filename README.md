@@ -1,16 +1,51 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme Azevedo Couto! 👋 (`glhrm86`)
 
-<!--
-**glhrm86/glhrm86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Estudante%20de%20TI-10b981?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Curso-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-blue?style=for-the-badge" alt="Curso">
+  <img src="https://img.shields.io/badge/Institui%C3%A7%C3%A3o-Uninter-yellow?style=for-the-badge" alt="Instituição">
+</p>
 
-Here are some ideas to get you started:
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Uninter** e apaixonado por tecnologia e resolução de problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre Mim
+* 🎓 **Estudando:** Análise e Desenvolvimento de Sistemas (ADS) na Uninter.
+* 💻 **Foco Atual:** Dominando **Lógica de Programação com JavaScript**.
+* 🧠 **Fundamentos:** Já estudei lógica de programação utilizando **Python**, o que me deu uma excelente base de pensamento algorítmico.
+* 🌐 **Front-end:** Conhecimentos básicos e práticos de **HTML5** e **CSS3**.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+Aqui estão as linguagens e tecnologias com as quais já tenho familiaridade ou que estou estudando ativamente neste momento:
+
+#### ⚡ Estudando / Foco Atual:
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+#### 📚 Já Estudei (Lógica de Programação):
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+#### 🔧 Ferramentas de Trabalho:
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+---
+
+### 📊 Minhas Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glhrm86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de glhrm86">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glhrm86&layout=compact&theme=tokyonight" alt="Linguagens mais usadas por glhrm86">
+</p>
