@@ -11,8 +11,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Uninter**
 ---
 
 ### 🚀 Sobre Mim
-* 🎓 **Estudando:** Análise e Desenvolvimento de Sistemas (ADS) na Uninter.
-* 💻 **Foco Atual:** Dominando **Lógica de Programação com JavaScript**.
+* 🎓 **Cursando:** Análise e Desenvolvimento de Sistemas (ADS) na Uninter.
+* 💻 **Foco Atual:** Estudando **Lógica de Programação** com **JavaScript**.
 * 🧠 **Fundamentos:** Já estudei lógica de programação utilizando **Python**, o que me deu uma excelente base de pensamento algorítmico.
 * 🌐 **Front-end:** Conhecimentos básicos e práticos de **HTML5** e **CSS3**.
 
