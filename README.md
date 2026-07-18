@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Institui%C3%A7%C3%A3o-Uninter-yellow?style=for-the-badge" alt="Instituição">
 </p>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Uninter** e apaixonado por tecnologia e resolução de problemas.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Uninter**. Gosto de tecnologia e resolução de problemas.
 
 ---
 
